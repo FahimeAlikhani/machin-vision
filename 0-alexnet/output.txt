@@ -1,0 +1,40 @@
+lion, king of beasts, Panthera leo                                          (99.80%)
+291
+chow, chow chow                                                             (0.15%)
+260
+dhole, Cuon alpinus                                                         (0.04%)
+274
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor    (0.00%)
+286
+Tibetan mastiff                                                             (0.00%)
+244
+lion, king of beasts, Panthera leo                                          (99.80%)
+291
+chow, chow chow                                                             (0.09%)
+260
+dhole, Cuon alpinus                                                         (0.07%)
+274
+tiger, Panthera tigris                                                      (0.01%)
+292
+hyena, hyaena                                                               (0.01%)
+276
+cock                                                                        (16.54%)
+7
+stingray                                                                    (14.54%)
+6
+great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias (13.51%)
+2
+tench, Tinca tinca                                                          (13.10%)
+0
+ostrich, Struthio camelus                                                   (11.85%)
+9
+lion, king of beasts, Panthera leo                                          (100.00%)
+291
+chow, chow chow                                                             (0.00%)
+260
+tiger, Panthera tigris                                                      (0.00%)
+292
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor    (0.00%)
+286
+leopard, Panthera pardus                                                    (0.00%)
+288

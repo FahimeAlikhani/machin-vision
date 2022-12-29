@@ -1,7 +1,6 @@
 import cv2
  
-# Read the original image
-img = cv2.imread('5-EdgeDetection/test4.jpg') 
+img = cv2.imread('5-EdgeDetection/test3.jpg') 
 # Display original image
 cv2.imshow('Original', img)
 cv2.waitKey(0)
